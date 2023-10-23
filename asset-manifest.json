@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dataset-site/static/css/main.60b3e960.css",
-    "main.js": "/dataset-site/static/js/main.2f9c2211.js",
+    "main.js": "/dataset-site/static/js/main.9e30ed60.js",
     "static/media/sample.png": "/dataset-site/static/media/sample.3ed3c4be820b856364b5.png",
     "static/media/home_fig.png": "/dataset-site/static/media/home_fig.924d0efefc975766f55f.png",
     "static/media/aist.png": "/dataset-site/static/media/aist.542942141327adb1af21.png",
@@ -10,10 +10,10 @@
     "static/media/img.png": "/dataset-site/static/media/img.c341adbcfbafd6b3eb9d.png",
     "index.html": "/dataset-site/index.html",
     "main.60b3e960.css.map": "/dataset-site/static/css/main.60b3e960.css.map",
-    "main.2f9c2211.js.map": "/dataset-site/static/js/main.2f9c2211.js.map"
+    "main.9e30ed60.js.map": "/dataset-site/static/js/main.9e30ed60.js.map"
   },
   "entrypoints": [
     "static/css/main.60b3e960.css",
-    "static/js/main.2f9c2211.js"
+    "static/js/main.9e30ed60.js"
   ]
 }

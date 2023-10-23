@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/dataset-site/static/css/main.8af2fbb8.css",
-    "main.js": "/dataset-site/static/js/main.602a6249.js",
+    "main.css": "/dataset-site/static/css/main.60b3e960.css",
+    "main.js": "/dataset-site/static/js/main.2f9c2211.js",
     "static/media/sample.png": "/dataset-site/static/media/sample.3ed3c4be820b856364b5.png",
     "static/media/home_fig.png": "/dataset-site/static/media/home_fig.924d0efefc975766f55f.png",
     "static/media/aist.png": "/dataset-site/static/media/aist.542942141327adb1af21.png",
-    "static/media/audio_setup.png": "/dataset-site/static/media/audio_setup.44014d214b0c13d65b61.png",
     "static/media/imaginarium.jpg": "/dataset-site/static/media/imaginarium.e07d5e757f2e5aafbc44.jpg",
     "static/media/reference.png": "/dataset-site/static/media/reference.a70f5af1b32c40c3da75.png",
     "static/media/img.png": "/dataset-site/static/media/img.c341adbcfbafd6b3eb9d.png",
     "index.html": "/dataset-site/index.html",
-    "main.8af2fbb8.css.map": "/dataset-site/static/css/main.8af2fbb8.css.map",
-    "main.602a6249.js.map": "/dataset-site/static/js/main.602a6249.js.map"
+    "main.60b3e960.css.map": "/dataset-site/static/css/main.60b3e960.css.map",
+    "main.2f9c2211.js.map": "/dataset-site/static/js/main.2f9c2211.js.map"
   },
   "entrypoints": [
-    "static/css/main.8af2fbb8.css",
-    "static/js/main.602a6249.js"
+    "static/css/main.60b3e960.css",
+    "static/js/main.2f9c2211.js"
   ]
 }

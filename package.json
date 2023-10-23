@@ -1,6 +1,7 @@
 {
-  "name": "kodee_frontend",
+  "name": "dataset",
   "version": "0.1.0",
+  "homepage": "https://liu6-66.github.io/dataset-site/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -22,6 +23,8 @@
     "xlsx": "^0.18.5"
   },
   "scripts": {
+    "predeploy": "npm run build && react-snap",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

@@ -1,0 +1,9 @@
+
+.imag {
+    width: 26vw;  /* This sets the width to be 60% of the viewport width */
+    display: block;  /* This makes the image a block element, which allows it to be centered using auto margins */
+    margin-top: 95px;
+    margin-left: 30px;  /* These two lines center the image */
+    margin-right: auto;
+    margin-bottom: 85px;
+}

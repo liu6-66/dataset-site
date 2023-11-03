@@ -13,7 +13,14 @@ function Home() {
     return (
         <div className="homeContainer">
             <img className="homeLogo" src={home} alt="Logo" />
-            <img className="homeFig" src={overview} alt="Home Figure" />
+            <figure>
+                <img className="homeFig" src={overview} alt="Home Figure" />
+                <figcaption>
+                Pictured on the left: Motion capture from the 3.6M database
+                <br/>
+                On the right: Generated pose estimation with mapped coordinates
+                </figcaption>
+            </figure>
 
             <h1>Overview</h1>
             <div className="dottedline">.....................................................................................................................................................................................................................................................................................................................................................................................................</div>
@@ -23,7 +30,10 @@ function Home() {
             <p className="datasetsSurvey">
                 A review of current 3D datasets underscores their limitations, which frequently hamper the effectiveness of pose estimators. One significant issue is the constrained number of frames, impeding the efficiency of vision transformers. For context, even though AIST Dance++ is notably larger than the Human3.6M dataset, it encompasses only 12,760 videos. A possible solution could be to employ sliding windows to divide videos into smaller segments, but transformers undeniably need more expansive datasets to achieve peak functionality. Another notable drawback is the evident lack of diversity. The majority of these datasets are captured in studio settings with consistent lighting, backgrounds, and a limited pool of actors. Training on such homogenized datasets can result in models that are optimized for specific conditions but struggle to adapt to diverse, real-world scenarios.
             </p>
-            <img className="skeletonFig" src={skeleton} alt="Home Skeleton" />
+            <figure>
+              <img className="skeletonFig" src={skeleton} alt="Home Skeleton"/>
+              <figcaption>Upper body key points to establish the standard for the skeleton</figcaption>
+            </figure>
             <h1>Getting Started</h1>
             <div className="dottedline">.....................................................................................................................................................................................................................................................................................................................................................................................................</div>
 

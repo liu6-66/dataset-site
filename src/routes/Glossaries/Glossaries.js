@@ -15,7 +15,12 @@ function Glossaries() {
     return (
         <div className="homeContainer">
             <img className="homeLogo" src={home} alt="Logo" />
+            <figure>
             <img className="aist" src={aist} alt="aist" />
+                <figcaption>
+                Photo credited from AIST++ Dataset
+                </figcaption>
+            </figure>
 
             <h1>Public Datasets Integration</h1>
             <div className="dottedline">.....................................................................................................................................................................................................................................................................................................................................................................................................</div>
